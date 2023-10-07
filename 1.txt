@@ -4,3 +4,5 @@
 修改bug
 
 分支合并吧
+
+learngit2中也要修改dev
